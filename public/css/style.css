@@ -1,0 +1,12 @@
+body{
+    color: rgb(214, 211, 11);
+}
+h1{
+    text-align: center;
+}
+.imgcontainer a{
+    background-color: black;
+    color: #fff;
+    padding: 5px 10px;
+    float: right;
+  }
